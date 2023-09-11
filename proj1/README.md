@@ -1,7 +1,7 @@
 | Note     | Score    |Evidence        |
 | -------- | -------- | -------- |
-| Video | |  |
-|Number of commits|
+| Video | 3| 2 minute video of new capabilities demonstrating a big improvement over previous versions.|
+|Number of commits| 3| 
 |Number of commits by different people|
 |Issues reports: there are many|
 |Issues are being closed|
