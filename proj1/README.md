@@ -7,11 +7,18 @@
 |Number of commits: by different people  |	3|	Number of commits by each member are in range (14-20)- GH commit history|
 |Issues reports: there are many  |	3|	There were 17 issues reported - GH Issues|
 |Issues are being closed  |	3|	10/17 issues were closed - GH Issues|
-|DOI badge: exists  |	3|	GH readme|
-|Docs: documentation generated, format not ugly  |	3|	Project has well documented readme with dedicated sections for introduction, features, pre-requisites and future scope. - GH readme|
-|Docs: what- point descriptions of each class/function (in isolation) |	3|	All features are clearly explained - GH readme|
-|Docs: how - for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z |	3 |	There are mini-tutorials for some commands - GH readme|
-|Docs: why- docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing |	3 | 	Used quotes and video to sell their product - GH readme|
+|DOI badge: exists  |	3|	GH Readme|
+|Docs: documentation generated, format not ugly  |	3|	Project has well documented readme with dedicated sections for introduction, features, pre-requisites and future scope. - GH Readme|
+|Docs: what- point descriptions of each class/function (in isolation) |	3|	All features are clearly explained - GH Readme|
+|Docs: how - for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z |	3 |	There are mini-tutorials for some commands - GH Readme|
+|Docs: why- docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing |	3 | 	Used quotes and video to sell their product - GH Readme|
+Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.| 	3 |	Used animated video to endorse their product - GH Readme |
+Use of version control tools| 	3 | 	Effectively leveraged all the functionalities offered by GH - GH Repo|
+Use of style checkers|	2 | 	pylintrc, pycodestyle.config style checker files present but workflow has no runs yet - GH Repo|
+Use of code formatters |	2 |	PycharmStyleSyntax.xml format checker  files present but workflow has no runs yet - GH Repo|
+Use of syntax checkers.|	2 |	PycharmStyleSyntax.xml format checker files present but workflow has no runs yet - GH Repo|
+Use of code coverage |	2 |	travis.yml and codecoverage badge - GH Repo|
+Other automated analysis tools |	0 |	No CI/CD pipeline or other tools used - GH Repo|
 
 
 
