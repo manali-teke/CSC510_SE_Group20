@@ -19,6 +19,17 @@ Use of code formatters |	2 |	PycharmStyleSyntax.xml format checker  files presen
 Use of syntax checkers.|	2 |	PycharmStyleSyntax.xml format checker files present but workflow has no runs yet - GH Repo|
 Use of code coverage |	2 |	travis.yml and codecoverage badge - GH Repo|
 Other automated analysis tools |	0 |	No CI/CD pipeline or other tools used - GH Repo|
+Test cases exist |	3 |	Test cases in test directory - GH repo |
+Test cases are routinely executed |	1 |	CI passed but no test badges - GH repo |
+The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up |	2  |	The instructions did not tell about changing client_id, project_id and client_secret in credentials.json caused errors - GH repo |
+Issues are discussed before they are closed |	1 | 	No discussions seen in issue thread - GH issues | 
+Chat channel: exists |	NA |	-|
+Test cases: a large proportion of the issues related to handling failing cases |	2 | 	Three issues labelled "bug" show that issues were created for failing test cases.- GH issues | 
+Evidence that the whole team is using the same tools: everyone can get to all tools and files |	3 |	Commit history of files have different contributors  - GH |
+Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) |	 3 | 	Commit history - GH |
+Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) |	NA |	-|
+Evidence that the members of the team are working across multiple places in the code base |	2 | 	Commits on main branch - GH Repo |
+Short release cycles |	3 | 	version release history - GH Repo |
 
 
 
