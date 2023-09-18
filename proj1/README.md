@@ -1,6 +1,6 @@
 **A. Project 1 Video Demonstration** *[Youtube Link](https://youtu.be/5X9IxOJAdv8?si=cbWhz0FwXS3XXMts)*
 
- **B. RUBIC SCORES**
+ **B. RUBRIC SCORES**
 
   **Project 1- (d)Schedule Bot**
 |Notes	|Score|	Evidence|
