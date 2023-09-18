@@ -74,7 +74,7 @@ Is your project's ticketing system publicly visible to your users, so they can v
 
 
 
-**Project - (f)Slasht**
+**Project - (f)Slash**
 | Notes | Score | Evidence |
 |---|---|---|
 | Video | 3 | https://github.com/NCSU-Group7-SE2021/slash/blob/main/assets/slash-phase3.gif |
