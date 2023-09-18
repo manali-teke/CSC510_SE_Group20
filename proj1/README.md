@@ -1,4 +1,8 @@
-**Project - (d)Schedule Bot**
+**A. Project 1 Video Demonstration** *[Youtube Link](https://youtu.be/5X9IxOJAdv8?si=cbWhz0FwXS3XXMts)*
+
+ **B. RUBIC SCORES**
+
+  **Project - (d)Schedule Bot**
 |Notes	|Score|	Evidence|
 | -------- | -------- | -------- |
 |Video |	3|	A descriptive video explaining six new functionalities|
