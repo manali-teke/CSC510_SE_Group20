@@ -43,8 +43,8 @@ Short release cycles |	3 | 	version release history - GH Repo |
 | Note     | Score    |Evidence        |
 | -------- | -------- | -------- |
 | Video | 3| 2 minute video of new capabilities demonstrating a big improvement over previous versions.|
-|Number of commits| 3| 
-|Number of commits by different people| 3|
+|Number of commits| 3| There are a total of 197 commits
+|Number of commits by different people| 3| Everyone has made almost equal contributions
 |Issues reports: there are many| 3| There are many issues - https://github.com/PvPatel-1001/Recipe_Recommender/issues?q=is%3Aissue+is%3Aclosed
 |Issues are being closed| 3 |All the issues are closed - https://github.com/PvPatel-1001/Recipe_Recommender/issues
 |DOI badge: exists|
@@ -62,13 +62,13 @@ Other automated analysis tools | 2| One https://github.com/PvPatel-1001/Recipe_R
 Test cases exist| 3|https://github.com/PvPatel-1001/Recipe_Recommender/tree/master/Code/backend/__tests__ Additional test cases added - https://github.com/PvPatel-1001/Recipe_Recommender/tree/master/Code/backend/additionalTests
 Test cases are routinely executed| 3|https://github.com/PvPatel-1001/Recipe_Recommender/tree/master/Code/backend/additionalTests
 The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up |3| https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/CONTRIBUTING.md#How-to-Contribute
-Issues are discussed before they are closed
+Issues are discussed before they are closed |1| Discussions are not reported https://github.com/PvPatel-1001/Recipe_Recommender/issues?q=is%3Aissue+project%3Apvpatel-1001%2Frecipe_recommender%2F1+is%3Aclosed 
 Chat channel: 
-Test cases: a large proportion of the issues related to handling failing cases.|3|https://github.com/PvPatel-1001/Recipe_Recommender/issues?q=is%3Aissue+is%3Aclosed
+Test cases: a large proportion of the issues related to handling failing cases.|2|https://github.com/PvPatel-1001/Recipe_Recommender/issues?q=is%3Aissue+is%3Aclosed
 Evidence that the whole team is using the same tools: everyone can get to all tools and files|3|
 Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3|
 Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|3|
-Evidence that the members of the team are working across multiple places in the code base|3|
+Evidence that the members of the team are working across multiple places in the code base|3| https://github.com/PvPatel-1001/Recipe_Recommender/compare/master...het-patel99:Recipe_Recommender:master
 Short release cycles |3|https://github.com/PvPatel-1001/Recipe_Recommender/releases
 Does your website and documentation provide a clear, high-level overview of your software? | yes|https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/README.md
 Does your website and documentation clearly describe the type of user who should use your software? |yes|https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/README.md
@@ -77,7 +77,7 @@ Is the name of your project/software unique?|yes|
 Is your project/software name free from trademark violations?|yes|
 Is your software available as a package that can be deployed without building it?|yes|
 Is your software available for free?|yes|
-Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|yes|
+Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|yes|https://github.com/PvPatel-1001/Recipe_Recommender
 Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?|yes|https://github.com/PvPatel-1001/Recipe_Recommender
 Is your documentation clearly available on your website or within your software?|yes|https://github.com/PvPatel-1001/Recipe_Recommender/tree/master/docs
 Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|yes|https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/README.md
@@ -92,6 +92,53 @@ Does your project have an e-mail address or forum that is solely for supporting 
 Are e-mails to your support e-mail address received by more than one person?|no|
 Does your project have a ticketing system to manage bug reports and feature requests?|no|
 Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?|no|
+Is your software’s architecture and design modular?| yes| The general architecture looks modular
+Does your software use an accepted coding standard or convention?|yes|Code is easy to understand, maintain, and extend. 
+Does your software allow data to be imported and exported using open data formats? e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones| no|
+Does your software allow communications using open communications protocols? e.g. HTTP, FTP, XMPP, SOAP over HTTP,  or domain-specific ones|no|
+Is your software cross-platform compatible? e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari?|
+Does your software adhere to appropriate accessibility conventions or standards?|yes|
+Does your documentation adhere to appropriate accessibility conventions or standards?|no|
+Is your source code stored in a repository under revision control?|yes|
+Is each source code release a snapshot of the repository?|yes| Evident from the commits
+Are releases tagged in the repository?|no|
+Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)|yes|https://github.com/het-patel99/Recipe_Recommender/pulse
+Do you back-up your repository?| |
+Do you provide publicly-available instructions for building your software from the source code?|yes|Under project setup steps: https://github.com/het-patel99/Recipe_Recommender/tree/master 
+Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)| no|
+Do you provide publicly-available instructions for deploying your software?|yes| Under project setup steps: https://github.com/het-patel99/Recipe_Recommender/tree/master
+Does your documentation list all third-party dependencies?|no|
+Does your documentation list the version number for all third-party dependencies?|no|
+Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?|no|
+Can you download dependencies using a dependency management tool or package manager? e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)|no|
+Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?|yes|Tests have been built https://github.com/het-patel99/Recipe_Recommender/tree/master/test 
+Do you have an automated test suite for your software?|no|
+Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?|no|
+Do you use continuous integration, automatically running tests whenever changes are made to your source code?|yes|
+Are your test results publicly visible?|no|
+Are all manually-run tests documented?|no|
+Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software?  e.g. release announcements, publications, workshops, conference presentations | no|
+Does your website state how many projects and users are associated with your project?|yes|
+Do you provide success stories on your website?|no |
+Do you list your important partners and collaborators on your website?|yes|https://github.com/PvPatel-1001/Recipe_Recommender/graphs/contributors
+Do you list your project's publications on your website or link to a resource where these are available?|yes| https://github.com/het-patel99/Recipe_Recommender/blob/master/docs/Proj1RubricComments.pdf
+Do you list third-party publications that refer to your software on your website or link to a resource where these are available?|
+Can users subscribe to notifications to changes to your source code repository?|no|
+If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model?|no|
+Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?|yes| Steps explained in https://github.com/het-patel99/Recipe_Recommender/blob/master/CONTRIBUTING.md#Where-to-Contribute 
+Do you have a contributions policy?|yes|Policy explained here https://github.com/het-patel99/Recipe_Recommender/blob/master/CONTRIBUTING.md#Where-to-Contribute 
+Is your contributions' policy publicly available?|yes | https://github.com/het-patel99/Recipe_Recommender/blob/master/CONTRIBUTING.md#Where-to-Contribute
+Do contributors keep the copyright/IP of their contributions?|no|
+Does your website and documentation clearly state the copyright owners of your software and documentation?|yes| Under the contributors Phase 3 section https://github.com/het-patel99/Recipe_Recommender/tree/master 
+Does each of your source code files include a copyright statement?|no|
+Does your website and documentation clearly state the licence of your software?|yes|https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/LICENSE
+Is your software released under an open source licence?|yes|MIT Licence is an open source library, https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/LICENSE
+Is your software released under an OSI-approved open-source licence?|yes|MIT is OSI-approved licence  https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/LICENSE
+Does each of your source code files include a licence header?|no|
+Do you have a recommended citation for your software?|no|
+Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?|no|
+Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?|no|
+Do you make timely announcements of the deprecation of components, APIs, etc.?|no|
 
 
 **Project - (t)Application Tracking System- J-Tracker**
