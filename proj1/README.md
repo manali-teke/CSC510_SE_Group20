@@ -439,35 +439,35 @@ Do you make timely announcements of the deprecation of components, APIs, etc.?|n
 **Project 5 - (f)Slash**
 | Notes | Score | Evidence |
 |---|---|---|
-| Video | 3 | https://github.com/NCSU-Group7-SE2021/slash/blob/main/assets/slash-phase3.gif |
-| Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot) | 2 | https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors |
-| Number of commits | 3 | https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors |
-| Number of commits: by different people | 2 | https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors |
-| Issues reports: there are many | 2 | https://github.com/NCSU-Group7-SE2021/slash/issues |
-| Issues are being closed | 2 | https://github.com/NCSU-Group7-SE2021/slash/issues?q=is%3Aissue+is%3Aclosed |
-| DOI badge: exists | 3 | https://zenodo.org/record/5739423 |
-| Docs: doco generated, format not ugly | 3 | https://github.com/NCSU-Group7-SE2021/slash |
+| Video | 3 |[Video Link](https://github.com/NCSU-Group7-SE2021/slash/blob/main/assets/slash-phase3.gif)|
+| Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot) | 2 |[GH Commits](https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors) |
+| Number of commits | 3 |[GH commits](https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors) |
+| Number of commits: by different people | 2 |[GH commits](https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors)|
+| Issues reports: there are many | 2 |[GH issues](https://github.com/NCSU-Group7-SE2021/slash/issues)|
+| Issues are being closed | 2 |[GH issues](https://github.com/NCSU-Group7-SE2021/slash/issues?q=is%3Aissue+is%3Aclosed) |
+| DOI badge: exists | 3 |[GH Repo](https://zenodo.org/record/5739423)|
+| Docs: doco generated, format not ugly | 3 | [GH Repo](https://github.com/NCSU-Group7-SE2021/slash) |
 | Docs: what: point descriptions of each class/function (in isolation) | 0 | Nothing can be found |
-| Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | 3 | https://github.com/NCSU-Group7-SE2021/slash |
+| Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | 3 |[GH Repo](https://github.com/NCSU-Group7-SE2021/slash)|
 | Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | 1 | No visuals, images or GIFS in the Readme |
 | Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | 0 | No animation video found |
 | Use of version control tools | 3 | Github Repo |
 | Use of style checkers | 0 | Nothing in Python style checker |
 | Use of code formatters. | 1 |  |
-| Use of syntax checkers. | 3 | https://github.com/NCSU-Group7-SE2021/slash/blob/main/.github/workflows/python-app.yml |
-| Use of code coverage | 3 | https://app.codecov.io/gh/NCSU-Group7-SE2021/slash |
+| Use of syntax checkers. | 3 | [GH Files](https://github.com/NCSU-Group7-SE2021/slash/blob/main/.github/workflows/python-app.yml)|
+| Use of code coverage | 3 |[GH Code Coverage](https://app.codecov.io/gh/NCSU-Group7-SE2021/slash)|
 | Other automated analysis tools | 0 | No evidence could be found |
-| Test cases exist | 3 | https://github.com/NCSU-Group7-SE2021/slash/tree/main/tests |
+| Test cases exist | 3 |[GH Test cases](https://github.com/NCSU-Group7-SE2021/slash/tree/main/tests) |
 | Test cases are routinely executed | 2 | no evidence of routing execution |
-| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | 3 | https://github.com/NCSU-Group7-SE2021/slash/blob/main/CONTRIBUTING.md |
-| Issues are discussed before they are closed | 3 | https://github.com/NCSU-Group7-SE2021/slash/issues?q=is%3Aissue+is%3Aclosed |
+| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | 3 | [GH Repo](https://github.com/NCSU-Group7-SE2021/slash/blob/main/CONTRIBUTING.md)|
+| Issues are discussed before they are closed | 3 |[GH Issues](https://github.com/NCSU-Group7-SE2021/slash/issues?q=is%3Aissue+is%3Aclosed)|
 | Chat channel: exists | N/A |  |
-| Test cases: a large proportion of the issues related to handling failing cases. | 2 | https://github.com/NCSU-Group7-SE2021/slash/issues |
-| Evidence that the whole team is using the same tools: everyone can get to all tools and files | 3 | https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors |
-| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) | 3 | https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors |
-| Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | 3 | https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors |
-| Evidence that the members of the team are working across multiple places in the code base | 3 | https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors |
-| Short release cycles | 1 | https://github.com/NCSU-Group7-SE2021/slash/releases/tag/v1.1.0 |
+| Test cases: a large proportion of the issues related to handling failing cases. | 2 |[GH issues](https://github.com/NCSU-Group7-SE2021/slash/issues) |
+| Evidence that the whole team is using the same tools: everyone can get to all tools and files | 3 |[GH Repo](https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors)|
+| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) | 3 | [GH Repo](https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors) |
+| Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | 3 | [GH Repo](https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors) |
+| Evidence that the members of the team are working across multiple places in the code base | 3 |[GH Repo](https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors)|
+| Short release cycles | 1 |[GH Releases](https://github.com/NCSU-Group7-SE2021/slash/releases/tag/v1.1.0) |
 | Does your website and documentation provide a clear, high-level overview of your software? | Yes |  |
 | Does your website and documentation clearly describe the type of user who should use your software? | Yes |  |
 | Do you publish case studies to show how your software has been used by yourself and others? | No |  |
