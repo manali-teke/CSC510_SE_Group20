@@ -6,34 +6,34 @@
 |Notes	|Score|	Evidence|
 | -------- | -------- | -------- |
 |Video |	3|	A descriptive video explaining six new functionalities|
-|Workload is spread over the whole team |	3|	All members have fairly equal contribution - GH commit history |
-|Number of commits |	3|	There are 97 commits over a period of one month - GH commit history|
-|Number of commits: by different people  |	3|	Number of commits by each member are in range (14-20)- GH commit history|
-|Issues reports: there are many  |	3|	There were 17 issues reported - GH Issues|
-|Issues are being closed  |	3|	10/17 issues were closed - GH Issues|
-|DOI badge: exists  |	3|	GH Readme|
-|Docs: documentation generated, format not ugly  |	3|	Project has well documented readme with dedicated sections for introduction, features, pre-requisites and future scope. - GH Readme|
-|Docs: what- point descriptions of each class/function (in isolation) |	3|	All features are clearly explained - GH Readme|
-|Docs: how - for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z |	3 |	There are mini-tutorials for some commands - GH Readme|
-|Docs: why- docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing |	3 | 	Used quotes and video to sell their product - GH Readme|
-Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.| 	3 |	Used animated video to endorse their product - GH Readme |
-Use of version control tools| 	3 | 	Effectively leveraged all the functionalities offered by GH - GH Repo|
-Use of style checkers|	2 | 	pylintrc, pycodestyle.config style checker files present but workflow has no runs yet - GH Repo|
-Use of code formatters |	2 |	PycharmStyleSyntax.xml format checker  files present but workflow has no runs yet - GH Repo|
-Use of syntax checkers.|	2 |	PycharmStyleSyntax.xml format checker files present but workflow has no runs yet - GH Repo|
-Use of code coverage |	2 |	travis.yml and codecoverage badge - GH Repo|
-Other automated analysis tools |	0 |	No CI/CD pipeline or other tools used - GH Repo|
-Test cases exist |	3 |	Test cases in test directory - GH repo |
-Test cases are routinely executed |	1 |	CI passed but no test badges - GH repo |
-The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up |	2  |	The instructions did not tell about changing client_id, project_id and client_secret in credentials.json caused errors - GH repo |
-Issues are discussed before they are closed |	1 | 	No discussions seen in issue thread - GH issues | 
+|Workload is spread over the whole team |	3|	All members have fairly equal contribution - [GH commit history](https://github.com/SEProjGrp5/ScheduleBot/graphs/contributors) |
+|Number of commits |	3|	There are 97 commits over a period of one month - [GH commit history](https://github.com/SEProjGrp5/ScheduleBot/graphs/contributors?from=2021-11-16&to=2021-12-08&type=c)|
+|Number of commits: by different people  |	3|	Number of commits by each member are in range (14-20)- [GH commit history](https://github.com/SEProjGrp5/ScheduleBot/graphs/contributors?from=2021-11-16&to=2021-12-08&type=c)|
+|Issues reports: there are many  |	3|	There were 17 issues reported - [GH Issues](https://github.com/SEProjGrp5/ScheduleBot/issues)|
+|Issues are being closed  |	3|	10/17 issues were closed - [GH Issues](https://github.com/SEProjGrp5/ScheduleBot/issues?q=is%3Aissue+)|
+|DOI badge: exists  |	3|	[GH Readme](https://github.com/SEProjGrp5/ScheduleBot/blob/main/README.md)|
+|Docs: documentation generated, format not ugly  |	3|	Project has well documented readme with dedicated sections for introduction, features, pre-requisites and future scope. - [GH Readme](https://github.com/SEProjGrp5/ScheduleBot/blob/main/README.md)|
+|Docs: what- point descriptions of each class/function (in isolation) |	3|	All features are clearly explained - [GH Readme](https://github.com/SEProjGrp5/ScheduleBot/blob/main/README.md)|
+|Docs: how - for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z |	3 |	There are mini-tutorials for some commands - [GH Readme](https://github.com/SEProjGrp5/ScheduleBot/blob/main/README.md)|
+|Docs: why- docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing |	3 | 	Used quotes and video to sell their product - [GH Readme](https://github.com/SEProjGrp5/ScheduleBot/blob/main/README.md)|
+Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.| 	3 |	Used animated video to endorse their product - [GH Readme](https://github.com/SEProjGrp5/ScheduleBot/blob/main/README.md) |
+Use of version control tools| 	3 | 	Effectively leveraged all the functionalities offered by GH - [GH Repo](https://github.com/SEProjGrp5/ScheduleBot/tree/main)|
+Use of style checkers|	2 | 	pylintrc, pycodestyle.config style checker files present but workflow has no runs yet - [GH Repo](https://github.com/SEProjGrp5/ScheduleBot/tree/main)|
+Use of code formatters |	2 |	PycharmStyleSyntax.xml format checker  files present but workflow has no runs yet - [GH Repo](https://github.com/SEProjGrp5/ScheduleBot/tree/main)|
+Use of syntax checkers.|	2 |	PycharmStyleSyntax.xml format checker files present but workflow has no runs yet -[GH Repo](https://github.com/SEProjGrp5/ScheduleBot/tree/main)|
+Use of code coverage |	2 |	travis.yml and codecoverage badge - [GH Repo](https://github.com/SEProjGrp5/ScheduleBot/tree/main)|
+Other automated analysis tools |	0 |	No CI/CD pipeline or other tools used - [GH Repo](https://github.com/SEProjGrp5/ScheduleBot/tree/main)|
+Test cases exist |	3 |	Test cases in test directory - [GH repo](https://app.codecov.io/gh/SEProjGrp5/ScheduleBot/tree/main/test) |
+Test cases are routinely executed |	1 |	CI passed but no test badges - [GH repo](https://app.codecov.io/gh/SEProjGrp5/ScheduleBot/commits) |
+The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up |	2  |	The instructions did not tell about changing client_id, project_id and client_secret in credentials.json caused errors - [GH repo](https://github.com/SEProjGrp5/ScheduleBot) |
+Issues are discussed before they are closed |	1 | 	No discussions seen in issue thread - [GH discussions](https://github.com/SEProjGrp5/ScheduleBot/discussions)| 
 Chat channel: exists |	NA |	-|
-Test cases: a large proportion of the issues related to handling failing cases |	2 | 	Three issues labelled "bug" show that issues were created for failing test cases.- GH issues | 
-Evidence that the whole team is using the same tools: everyone can get to all tools and files |	3 |	Commit history of files have different contributors  - GH |
-Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) |	 3 | 	Commit history - GH |
+Test cases: a large proportion of the issues related to handling failing cases |	2 | 	Three issues labelled "bug" show that issues were created for failing test cases.- [GH issues](https://github.com/SEProjGrp5/ScheduleBot/issues) | 
+Evidence that the whole team is using the same tools: everyone can get to all tools and files |	3 |	Commit history of files have different contributors  - [GH](https://github.com/SEProjGrp5/ScheduleBot) |
+Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) |	 3 | 	Commit history - [GH](https://github.com/SEProjGrp5/ScheduleBot) |
 Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) |	NA |	-|
-Evidence that the members of the team are working across multiple places in the code base |	2 | 	Commits on main branch - GH Repo |
-Short release cycles |	3 | 	version release history - GH Repo |
+Evidence that the members of the team are working across multiple places in the code base |	2 | 	Commits on main branch - [GH Repo](https://github.com/SEProjGrp5/ScheduleBot) |
+Short release cycles |	3 | 	version release history - [GH Repo](https://github.com/SEProjGrp5/ScheduleBot) |
 Does your website and documentation provide a clear, high-level overview of your software? |	Yes |	
 Does your website and documentation clearly describe the type of user who should use your software? |	Yes |	
 Do you publish case studies to show how your software has been used by yourself and others? |	No | 	
