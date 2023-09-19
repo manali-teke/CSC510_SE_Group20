@@ -324,37 +324,37 @@ Do you make timely announcements of the deprecation of components, APIs, etc.?|n
 **Project 4- (t)Application Tracking System- J-Tracker**
 | Note     | Score    |Evidence        |
 | -------- | -------- | -------- |
-|Video |	3 |	https://github.com/kingan1/application-tracking-system/blob/main/Demo%20Video.mp4|
-|Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot)|	3 |	https://github.com/kingan1/application-tracking-system/graphs/contributors |
+|Video |	3 |	[Link](https://github.com/kingan1/application-tracking-system/blob/main/Demo%20Video.mp4)|
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot)|	3 |[GH Repo](https://github.com/kingan1/application-tracking-system/graphs/contributors)|
 |Number of commits	| 3 |	
-|Number of commits: by different people |	3 |	https://github.com/kingan1/application-tracking-system/graphs/contributors?from=2021-09-19&to=2023-09-17&type=c
-|Issues reports: there are many	|3	|Reported Issues: 34 | https://github.com/kingan1/application-tracking-system/issues?q=is%3Aissue
-|Issues are being closed	|3|	Closed Issues: 24| https://github.com/kingan1/application-tracking-system/issues?q=is%3Aissue+is%3Aclosed
-|DOI badge: exists	|3	| https://zenodo.org/record/5750920 |
-|Docs: doco generated, format not ugly|	3	|Readme, Software Documentation https://github.com/kingan1/application-tracking-system/blob/main/readme.md|
-|Docs: what: point descriptions of each class/function (in isolation)|	3	|Software Documentation https://github.com/kingan1/application-tracking-system/blob/main/Software%20Documentation.pdf|
-|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z	2	One tutorial explaining all functionalities|2|One video showing all the cases. https://github.com/kingan1/application-tracking-system/blob/main/readme.md|
+|Number of commits: by different people |	3 |[GH Commit History](https://github.com/kingan1/application-tracking-system/graphs/contributors?from=2021-09-19&to=2023-09-17&type=c)
+|Issues reports: there are many	|3	|Reported Issues: 34 |[GH Issues](https://github.com/kingan1/application-tracking-system/issues?q=is%3Aissue)
+|Issues are being closed	|3|	Closed Issues: 24| [GH Issues](https://github.com/kingan1/application-tracking-system/issues?q=is%3Aissue+is%3Aclosed)
+|DOI badge: exists	|3	| [Link](https://zenodo.org/record/5750920)|
+|Docs: doco generated, format not ugly|	3	|[Readme, Software Documentation](https://github.com/kingan1/application-tracking-system/blob/main/readme.md)|
+|Docs: what: point descriptions of each class/function (in isolation)|	3	|[Software Documentation](https://github.com/kingan1/application-tracking-system/blob/main/Software%20Documentation.pdf)|
+|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z	2	One tutorial explaining all functionalities|2|[One video showing all the cases](https://github.com/kingan1/application-tracking-system/blob/main/readme.md)|
 |Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|	2	| Interesting application to see as a student but does not answer the questions like how can recruiters add a job profile, how can it import job opportunities from LinkedIn and other job portals.|
-|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|	3	| https://github.com/kingan1/application-tracking-system/blob/main/readme.md|
+|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|	3	| [GH Repo](https://github.com/kingan1/application-tracking-system/blob/main/readme.md)|
 |Use of version control tools|	3|	Github|
 |Use of style checkers|	0	| Nothing found |
 |Use of code formatters.	|0	|No details in Superlinter|
 |Use of syntax checkers.	|0	| Nothing found |
-|Use of code coverage|	2	| https://app.codecov.io/gh/kingan1/application-tracking-system|
+|Use of code coverage|	2	|[GH Code Coverage](https://app.codecov.io/gh/kingan1/application-tracking-system)|
 |Other automated analysis tools|	2|	CI Pipelines in Code Cov|
 |Test cases exist|	2	|CodeCov. 74% Code is covered|
 |Test cases are routinely executed	|2	|
-|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|	3	| https://github.com/kingan1/application-tracking-system/blob/main/Contributing.md |
+|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|	3	| [GH Repo](https://github.com/kingan1/application-tracking-system/blob/main/Contributing.md)|
 |Issues are discussed before they are closed	|1	|Discussions are very rarely reported|
 |Chat channel: exists	|NA	| Cannot confirm |
 |Test cases: a large proportion of the issues related to handling failing cases.|	1	|
 |Evidence that the whole team is using the same tools: everyone can get to all tools and files|	3	|
 |Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|	3	|
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|	3 |	
-|Evidence that the members of the team are working across multiple places in the code base|	2|	https://github.com/kingan1/application-tracking-system/graphs/contributors|
-|Short release cycles	|3|	https://github.com/kingan1/application-tracking-system/releases|
-|Does your website and documentation provide a clear, high-level overview of your software?	|Yes	|https://github.com/kingan1/application-tracking-system/blob/main/Software%20Documentation.pdf|
-|Does your website and documentation clearly describe the type of user who should use your software?	|Yes	|https://github.com/kingan1/application-tracking-system/blob/main/Software%20Documentation.pdf|
+|Evidence that the members of the team are working across multiple places in the code base|	2|[GH Repo](https://github.com/kingan1/application-tracking-system/graphs/contributors)|
+|Short release cycles	|3|[GH Repo](https://github.com/kingan1/application-tracking-system/releases)|
+|Does your website and documentation provide a clear, high-level overview of your software?	|Yes	|[GH Repo](https://github.com/kingan1/application-tracking-system/blob/main/Software%20Documentation.pdf)|
+|Does your website and documentation clearly describe the type of user who should use your software?	|Yes	|[GH Repo](https://github.com/kingan1/application-tracking-system/blob/main/Software%20Documentation.pdf)|
 |Do you publish case studies to show how your software has been used by yourself and others?	|No	|
 |Is the name of your project/software unique?|	No	| JTracker is a Scientific Workflow Management System. jTracker is a retired Customer Retired Customer Relationship Management System.|
 |Is your project/software name free from trademark violations?	|No|	JTracker is a Scientific Workflow Management System. jTracker is a retired Customer Retired Customer Relationship Management System.|
@@ -405,7 +405,7 @@ Do you make timely announcements of the deprecation of components, APIs, etc.?|n
 |Do you have an automated test suite for your software?*	|Yes	|
 |Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?	|	
 |Do you use continuous integration, automatically running tests whenever changes are made to your source code?|	Yes	|
-|Are your test results publicly visible?*	|Yes	| https://app.codecov.io/gh/kingan1/application-tracking-system|
+|Are your test results publicly visible?*	|Yes	|[GH Code Coverage](https://app.codecov.io/gh/kingan1/application-tracking-system)|
 |Are all manually-run tests documented?*	|No	|
 |How you engage with your community		|
 |Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software?|	No	|
@@ -417,9 +417,9 @@ Do you make timely announcements of the deprecation of components, APIs, etc.?|n
 |Can users subscribe to notifications to changes to your source code repository?*	|	No|
  |If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model?	|Yes	|
 |How you manage contributions	|	
-|Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?|	Yes	|https://github.com/kingan1/application-tracking-system/blob/main/Contributing.md|
-|Do you have a contributions policy?|	Yes	|https://github.com/kingan1/application-tracking-system/blob/main/CODE_OF_CONDUCT.md|
-|Is your contributions' policy publicly available?|	Yes	|https://github.com/kingan1/application-tracking-system/blob/main/Contributing.md|
+|Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?|	Yes	|[GH Repo](https://github.com/kingan1/application-tracking-system/blob/main/Contributing.md)|
+|Do you have a contributions policy?|	Yes	|[GH Repo](https://github.com/kingan1/application-tracking-system/blob/main/CODE_OF_CONDUCT.md)|
+|Is your contributions' policy publicly available?|	Yes	|[GH Repo](https://github.com/kingan1/application-tracking-system/blob/main/Contributing.md)|
 |Do contributors keep the copyright/IP of their contributions?	|Yes	|
 |Your software's copyright and licensing		|
 |Does your website and documentation clearly state the copyright owners of your software and documentation?|	No|	
@@ -430,7 +430,7 @@ Do you make timely announcements of the deprecation of components, APIs, etc.?|n
 |Does each of your source code files include a licence header?|	No	|
 |Do you have a recommended citation for your software?*	|No	|
 |Your plans for the future		|
-|Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?|	Yes	|https://github.com/kingan1/application-tracking-system/projects/2|
+|Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?|	Yes	|[GH Repo](https://github.com/kingan1/application-tracking-system/projects/2)|
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?|	No	|
 |Do you make timely announcements of the deprecation of components, APIs, etc.?|	No	|
 
