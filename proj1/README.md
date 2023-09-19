@@ -107,19 +107,19 @@ Do you make timely announcements of the deprecation of components, APIs, etc.? |
 **Project 2- (l)slash**
 | Notes | Score | Evidence |
 |---|---|---|
-| Video | 3 | https://youtu.be/H1LSa4P-8fM?si=SC09I-VsEtkldzEa |
-| Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot) | 3 | https://github.com/rohan22shah/slash-phase3/graphs/contributors?from=2021-11-28&to=2023-09-17&type=c |
-| Number of commits | 3 | https://github.com/rohan22shah/slash-phase3/graphs/contributors?from=2021-11-28&to=2023-09-17&type=c |
-| Number of commits: by different people | 2 | https://github.com/rohan22shah/slash-phase3/graphs/contributors?from=2021-11-28&to=2023-09-17&type=c |
-| Issues reports: there are many | 2 | https://github.com/rohan22shah/slash-phase3/issues |
-| Issues are being closed | 3 | https://github.com/rohan22shah/slash-phase3/issues |
-| DOI badge: exists | 3 | https://github.com/rohan22shah/slash-phase3 |
-| Docs: doco generated, format not ugly | 3 | https://github.com/rohan22shah/slash-phase3 |
-| Docs: what: point descriptions of each class/function (in isolation) | 3 | https://github.com/rohan22shah/slash-phase3/blob/main/docs/Code%20Description.pdf |
-| Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | 3 | https://github.com/rohan22shah/slash-phase3#readme |
+| Video | 3 | [Youtube Link](https://youtu.be/H1LSa4P-8fM?si=SC09I-VsEtkldzEa)|
+| Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot) | 3 | [GH Commmit History](https://github.com/rohan22shah/slash-phase3/graphs/contributors?from=2021-11-28&to=2023-09-17&type=c) |
+| Number of commits | 3 | [GH Commmit History](https://github.com/rohan22shah/slash-phase3/graphs/contributors?from=2021-11-28&to=2023-09-17&type=c) |
+| Number of commits: by different people | 2 |[GH Commmit History](https://github.com/rohan22shah/slash-phase3/graphs/contributors?from=2021-11-28&to=2023-09-17&type=c) |
+| Issues reports: there are many | 2 | [GH Issues](https://github.com/rohan22shah/slash-phase3/issues) |
+| Issues are being closed | 3 |[GH Issues](https://github.com/rohan22shah/slash-phase3/issues) |
+| DOI badge: exists | 3 |[GH Repo](https://github.com/rohan22shah/slash-phase3 )|
+| Docs: doco generated, format not ugly | 3 |[GH Repo](https://github.com/rohan22shah/slash-phase3) |
+| Docs: what: point descriptions of each class/function (in isolation) | 3 | [GH Repo](https://github.com/rohan22shah/slash-phase3/blob/main/docs/Code%20Description.pdf) |
+| Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | 3 | [GH Readme](https://github.com/rohan22shah/slash-phase3#readme) |
 | Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | 1 | No visuals, images or videos, GIFS in the Readme |
 | Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | 0 | No animation video found |
-| Use of version control tools | 3 | Github Repo |
+| Use of version control tools | 3 | [Github Repo](https://github.com/rohan22shah/slash) |
 | Use of style checkers | 0 | Nothing in Python style checker |
 | Use of code formatters. | 1 |  |
 | Use of syntax checkers. | 3 |  |
@@ -127,20 +127,20 @@ Do you make timely announcements of the deprecation of components, APIs, etc.? |
 | Other automated analysis tools | 3 |  |
 | Test cases exist | 3 |  |
 | Test cases are routinely executed | 2 | no evidence of routing execution |
-| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | 3 | https://github.com/rohan22shah/slash-phase3/blob/main/CONTRIBUTING.md |
-| Issues are discussed before they are closed | 3 | https://github.com/rohan22shah/slash-phase3/issues?q=is%3Aissue+is%3Aclosed |
+| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | 3 | [GH Repo](https://github.com/rohan22shah/slash-phase3/blob/main/CONTRIBUTING.md) |
+| Issues are discussed before they are closed | 3 |[GH issues](https://github.com/rohan22shah/slash-phase3/issues?q=is%3Aissue+is%3Aclosed)|
 | Chat channel: exists | N/A |  |
-| Test cases: a large proportion of the issues related to handling failing cases. | 2 | https://github.com/rohan22shah/slash-phase3/issues?q=is%3Aissue+is%3Aclosed |
-| Evidence that the whole team is using the same tools: everyone can get to all tools and files | 3 | https://github.com/rohan22shah/slash-phase3/graphs/contributors |
-| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) | 3 | https://github.com/rohan22shah/slash-phase3/graphs/contributors |
-| Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | 3 | https://github.com/rohan22shah/slash-phase3/graphs/contributors |
-| Evidence that the members of the team are working across multiple places in the code base | 3 | https://github.com/rohan22shah/slash-phase3/graphs/contributors |
-| Short release cycles | 1 | https://github.com/rohan22shah/slash-phase3/releases/tag/v3.0 |
+| Test cases: a large proportion of the issues related to handling failing cases. | 2 | [GH issues](https://github.com/rohan22shah/slash-phase3/issues?q=is%3Aissue+is%3Aclosed)|
+| Evidence that the whole team is using the same tools: everyone can get to all tools and files | 3 |[GH Repo](https://github.com/rohan22shah/slash-phase3/graphs/contributors) |
+| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) | 3 | [GH Repo](https://github.com/rohan22shah/slash-phase3/graphs/contributors) |
+| Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | 3 |[GH Repo](https://github.com/rohan22shah/slash-phase3/graphs/contributors) |
+| Evidence that the members of the team are working across multiple places in the code base | 3 |[GH Repo](https://github.com/rohan22shah/slash-phase3/graphs/contributors)|
+| Short release cycles | 1 | [GH Repo](https://github.com/rohan22shah/slash-phase3/releases/tag/v3.0) |
 | Does your website and documentation provide a clear, high-level overview of your software? | Yes |  |
 | Does your website and documentation clearly describe the type of user who should use your software? | Yes |  |
 | Do you publish case studies to show how your software has been used by yourself and others? | No |  |
 | Is the name of your project/software unique? | No |  |
-| Is your project/software name free from trademark violations? | No | slash is a name of an American singer |
+| Is your project/software name free from trademark violations? | Yes | |
 | Is your software available as a package that can be deployed without building it? | No |  |
 | Is your software available for free? | Yes |  |
 | Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository? | Yes |  |
